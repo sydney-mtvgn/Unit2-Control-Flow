@@ -38,6 +38,6 @@
 # else:
 #     print(f"Different path chosen.")
 
-views = int(input("Enter view count: "))
-status = "viral" if views > 10000 else ("trending" if views > 1000 else "growing")
-print(f"Video Status: {status}")
+# views = int(input("Enter view count: "))
+# status = "viral" if views > 10000 else ("trending" if views > 1000 else "growing")
+# print(f"Video Status: {status}")
